@@ -1,0 +1,1 @@
+docker run -dp 27017:27017 mongo

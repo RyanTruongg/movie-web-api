@@ -1,7 +1,6 @@
 {
   "NODE_ENV": "dev",
   "NODE_PORT": 7001,
-  "MONGODB_DSN": "mongodb://192.168.99.100:37017/student_enrollment",
   "MONGODB_OPT": {
     "native_parser": true,
     "poolSize": 5,

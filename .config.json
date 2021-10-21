@@ -1,7 +1,7 @@
 {
   "NODE_ENV": "dev",
   "NODE_PORT": 7000,
-  "MONGODB_DSN": "mongodb://localhost:27017/student_enrollment",
+  "MONGODB_DSN": "mongodb://localhost:27017/movie-website",
   "RABBITMQ_RECONNECT_TIME": 10000,
   "RABBITMQ_PRE_FETCH_MSG": 10,
   "RABBITMQ_HOST": "127.0.0.1",
